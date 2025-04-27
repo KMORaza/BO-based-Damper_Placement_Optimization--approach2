@@ -1,4 +1,4 @@
-## Optimale Dämpferplatzierung in der mechanischen Fahrzeugaufhängung, entwickelt mittels Bayesscher Optimierung (Optimal damper placement in automotive mechanical suspension implemented using Bayesian Optimization)
+## Optimale Dämpferplatzierung in der mechanischen Fahrzeugaufhängung, entwickelt mit Bayesscher Optimierung und geschrieben in der Java-Programmiersprache (Optimal damper placement in automotive mechanical suspension implemented using Bayesian Optimization and written in Java)
 
 A multi-objective solution that utilizes Bayesian Optimization (BO) to optimize damper placement and parameters in an automotive suspension system. 
 
